@@ -12,3 +12,4 @@ N神的研究所 | 前端、游戏、flash 等 | http://nshen.net |	https://codi
 xiaofeig | JavaWeb后台开发 | http://coding.xiaofeig.cn | https://coding.net/u/xiaofeig/p/xiaofeig/git/pages
 CZP'S BLOG | 技术、读书、随笔等 | http://blog.luckypeng.com/ | https://coding.net/u/czphappy/p/blog
 高明飞的博客 | 嵌入式系统开发等各种技术 | http://gaomf.cn/ | https://coding.net/u/g199209/p/g199209/git/pages
+代码小屋 | 优质技术资源共享、全栈开发 | http://yodes.cn | https://coding.net/u/Yodeser/p/Yodeser/git/pages
