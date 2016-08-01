@@ -10,3 +10,4 @@ IPRO| 养草程序员的博客 | https://ipro.xin | https://coding.net/u/tan/p/t
 邵辉CRR | Android 开发相关 | http://shaohui.me |	https://coding.net/u/shaohui10086/p/shaohui10086
 N神的研究所 | 前端、游戏、flash 等 | http://nshen.net |	https://coding.net/u/nshen/p/nshen121/
 xiaofeig | JavaWeb后台开发 | http://coding.xiaofeig.cn | https://coding.net/u/xiaofeig/p/xiaofeig/git/pages
+CZP'S BLOG | 技术、读书、随笔等 | http://blog.luckypeng.com/ | https://coding.net/u/czphappy/p/blog
