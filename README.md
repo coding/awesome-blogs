@@ -8,3 +8,4 @@ EyreFree| iOS 开发相关 | https://www.eyrefree.org | https://coding.net/u/eyr
 小胡子哥的个人网站 | JavaScript、前端相关 | https://barretlee.com/ | https://coding.net/u/barretlee/p/blog/git/pages
 IPRO| 养草程序员的博客 | https://ipro.xin | https://coding.net/u/tan/p/tan/git/tree/pages/
 邵辉CRR | Android开发相关 | http://shaohui.me |	https://coding.net/u/shaohui10086/p/shaohui10086
+N神的研究所 | 前端、游戏、flash等 | http://nshen.net |	https://coding.net/u/nshen/p/nshen121/
