@@ -11,3 +11,4 @@ IPRO| 养草程序员的博客 | https://ipro.xin | https://coding.net/u/tan/p/t
 N神的研究所 | 前端、游戏、flash 等 | http://nshen.net |	https://coding.net/u/nshen/p/nshen121/
 xiaofeig | JavaWeb后台开发 | http://coding.xiaofeig.cn | https://coding.net/u/xiaofeig/p/xiaofeig/git/pages
 CZP'S BLOG | 技术、读书、随笔等 | http://blog.luckypeng.com/ | https://coding.net/u/czphappy/p/blog
+高明飞的博客 | 嵌入式系统开发等各种技术 | http://gaomf.cn/ | https://coding.net/u/g199209/p/g199209/git/pages
