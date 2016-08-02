@@ -15,3 +15,4 @@ CZP'S BLOG | 技术、读书、随笔等 | http://blog.luckypeng.com/ | https://
 代码小屋 | 优质技术资源共享、全栈开发 | http://yodes.cn | https://coding.net/u/Yodeser/p/Yodeser/git/pages
 yoqu的小博客 | Java 开发相关，系统使用分享 | http://www.yoqu.org | https://coding.net/u/yoqu/p/blog/git/pages
 不可能不确定 | Node.js、JavaScript 开发 | http://chensd.com | https://coding.net/u/Stiekel/p/blog/git
+JXue博客 | 全栈开发 | http://jxue.coding.me | https://coding.net/u/JXue/p/JXue
