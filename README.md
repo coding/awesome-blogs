@@ -1,4 +1,4 @@
-﻿#awesome-blogs
+#awesome-blogs
 本项目收录了使用 Coding Pages 搭建的优质博客、Pages，欢迎提交 Pull Request
 
 博客名称 | 介绍 | 域名 | Coding Pages |
@@ -17,3 +17,4 @@ yoqu的小博客 | Java 开发相关，系统使用分享 | http://www.yoqu.org 
 不可能不确定 | Node.js、JavaScript 开发 | http://chensd.com | https://coding.net/u/Stiekel/p/blog/git
 JXue博客 | 全栈开发 | http://jxue.coding.me | https://coding.net/u/JXue/p/JXue
 胡阳广的博客 | 技术，工作，生活，杂谈 | https://uxwind.me | https://coding.net/u/chnhyg/p/chnhyg/git/pages
+crossoverJie的独立博客 | JavaWeb、Android等互联网技术 | http://crossoverjie.top | https://coding.net/u/crossoverJie/p/crossoverJie/git/pages
