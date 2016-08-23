@@ -18,3 +18,5 @@ yoqu的小博客 | Java 开发相关，系统使用分享 | http://www.yoqu.org 
 JXue博客 | 全栈开发 | http://jxue.coding.me | https://coding.net/u/JXue/p/JXue
 胡阳广的博客 | 技术，工作，生活，杂谈 | https://uxwind.me | https://coding.net/u/chnhyg/p/chnhyg/git/pages
 crossoverJie的独立博客 | JavaWeb、Android等互联网技术 | http://crossoverjie.top | https://coding.net/u/crossoverJie/p/crossoverJie/git/pages
+saymagic的博客 | Android开发相关 | http://blog.saymagic.cn/ | https://coding.net/u/saymagic/p/blog/git/tree/coding-pages/
+
