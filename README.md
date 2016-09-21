@@ -21,3 +21,4 @@ JXue博客 | 全栈开发 | http://jxue.coding.me | https://coding.net/u/JXue/p/
 crossoverJie的独立博客 | JavaWeb、Android 等互联网技术 | http://crossoverjie.top | https://coding.net/u/crossoverJie/p/crossoverJie/git/pages
 saymagic的博客 | Android 开发相关 | http://blog.saymagic.cn | https://coding.net/u/saymagic/p/blog/git/pages
 JXue博客 | 全栈开发 | http://jxue.coding.me | https://coding.net/u/JXue/p/JXue/git/pages
+Jvaeyhcd | iOS 开发 | http://www.jvaeyhcd.cc | https://coding.net/u/chedahuang/p/chedahuang/git/pages
